@@ -1,2 +1,2 @@
-touch up_to_date
+git pull https://github.com/munyongiro/alx-zero_day.git > up_to_date
 
